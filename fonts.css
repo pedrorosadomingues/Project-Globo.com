@@ -1,0 +1,147 @@
+body {
+  font-family: 'Encode Sans';
+}
+
+.weight100 {
+  font-weight: 100;
+}
+
+.weight200 {
+  font-weight: 200;
+}
+
+.weight300 {
+  font-weight: 300;
+}
+
+.weight400 {
+  font-weight: 400;
+}
+
+.weigth500 {
+  font-weight: 500;
+}
+
+.weight600 {
+  font-weight: 600;
+}
+
+.weigth700 {
+  font-weight: 700;
+}
+
+.size52 {
+  font-size: 52px;
+}
+
+.size32 {
+  font-size: 32px;
+}
+
+.size20 {
+  font-size: 20px;
+}
+
+.size19 {
+  font-size: 19px;
+}
+
+.size18 {
+  font-size: 18px;
+}
+.size14 {
+  font-size: 14px;
+}
+
+.height84 {
+  line-height: 84px;
+}
+
+.height67 {
+  line-height: 67px;
+}
+.height40 {
+  line-height: 40px;
+}
+
+.height25 {
+  line-height: 25px;
+}
+
+.height24 {
+  line-height: 24px;
+}
+
+.height22 {
+  line-height: 22px;
+}
+.height19 {
+  line-height: 19px;
+}
+
+.height15 {
+  line-height: 15px;
+}
+
+.red {
+  color: #c3170c;
+}
+
+.red2 {
+  color: #CD150B
+}
+
+.red2 {
+  color: #C4160C
+}
+
+.red3 {
+  color: #C4170C
+}
+
+.blue {
+  color: #1e4b9b;
+}
+
+.green {
+  color: #006766;
+}
+
+.green2 {
+  color: #07aa47;
+}
+
+.green3 {
+  color: #16AE54
+}
+
+.orange {
+  color: #e3662b;
+}
+
+.pink {
+  color: #fb0735;
+}
+
+.pink2 {
+  color: #ff75bb;
+}
+
+.pink3 {
+  color: #a81d83;
+}
+
+.yellow {
+  color: #ec7d00;
+}
+
+.black {
+  color: #323333;
+}
+
+.black2 {
+  color: #2F3134
+}
+.black3 {
+  color: #303134
+}
